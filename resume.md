@@ -13,7 +13,7 @@ Versatile Software Engineer with 5+ years of experience building high-performanc
 **Frontend:** React, Next.js, Redux, Zustand, React Query, Tailwind  
 **Networking:** UDP/TCP protocols, Network optimization, Real-time communication  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, KeyDB  
-**Message Brokers:** Kafka, RabbitMQ, NATS, Google Pub/Sub
+**Message Brokers:** Kafka, RabbitMQ, NATS, Google Pub/Sub  
 **DevOps:** Docker, Kubernetes, Terraform, AWS, Azure, CI/CD  
 **Specialized:** Microservices architecture, Distributed systems, Performance optimization, Low-latency systems, Media streaming
 

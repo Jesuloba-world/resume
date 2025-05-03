@@ -1,6 +1,6 @@
 # JESULOBA JOHN ABERE
 
-Software Engineer | [+2347031864774](tel:+2347031864774) | [jesulobajohn@gmail.com](mailto:jesulobajohn@gmail.com) | [Portfolio](https://portfolio-link) | [LinkedIn](https://linkedin.com/in/jesuloba-abere) | [GitHub](https://github.com/Jesuloba-world)
+Software Engineer | [+2347031864774](tel:+2347031864774) | [jesulobajohn@gmail.com](mailto:jesulobajohn@gmail.com) | [Portfolio](https://jesuloba.netlify.app) | [LinkedIn](https://linkedin.com/in/jesuloba-abere) | [GitHub](https://github.com/Jesuloba-world)
 
 ## PROFESSIONAL SUMMARY
 
